@@ -16,6 +16,7 @@
 | `NULL-SPACE/` | — | NaN | AXIOM 0 territory — pre-existence, void, the ground |
 | `CLOSE-0/` | 0- | -0.0 | approaching void from below — No-Kelvin floor |
 | `CLOSE-8/` | 0+ | +∞ | approaching ceiling from above — No-Kelvin roof |
+| `REAL-CLOSED/` | +1✓ | — | proven, finalized — **only this mirrors to GitHub** |
 | `DREAMER-SPACE/` | ∞ | — | owner's space — messy, speculative, no rules |
 
 ---
